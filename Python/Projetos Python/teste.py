@@ -1,1 +1,0 @@
-print('Oi lindão, olha o que consegui fazer!')
